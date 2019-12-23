@@ -1,0 +1,13 @@
+body{
+	background-color: silver;
+	top: 0px;
+}
+div,.df-header-design,a{
+	background-color: white;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 24px;
+	list-style-position: all;//float: right;
+
+
+}
